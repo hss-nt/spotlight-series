@@ -5,17 +5,11 @@ hide:
   - path
 ---
 
-# ![Logo](./content/Alliance_logo.png){ style="height: 1.2em; vertical-align: middle; margin-right: 0.3em;" }  Série d'ateliers de formation pour les SHS, 2026-2027
+# ![Logo](./content/Alliance_logo.png){ style="height: 1.2em; vertical-align: middle; margin-right: 0.3em;" }  Série de webinaires « HSS Spotlight »
 
-[L'équipe nationale pour les sciences humaines et sociales](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences/fr){:target"=_blank"} de l'Alliance de recherche numérique du Canada soutient les chercheur·ses et les étudiant·es en sciences humaines et sociales. Dans le cadre de ce mandat, nous lançons une nouvelle série d'ateliers de formation à partir de septembre 2026.
+L’[équipe nationale des sciences humaines et sociales](https://docs.alliancecan.ca/wiki/Humanities_and_Social_Sciences) de l’Alliance de recherche numérique du Canada soutient et défend les intérêts de la communauté de recherche canadienne en sciences humaines et sociales. Dans le cadre de cette mission, nous organisons des webinaires mettant en lumière les travaux de recherche numérique et computationnelle menés par des chercheuses et chercheurs en sciences humaines et sociales à travers le pays.
 
-Les ateliers de cette série sont conçus pour accompagner les chercheur·ses et les étudiant·es en sciences humaines et sociales à travers les différentes étapes du processus de recherche, en leur présentant les outils numériques et les approches méthodologiques adaptés à chaque phase. Le programme comprend des ateliers sur la pérennité des données numériques, l'informatique en nuage (cloud computing), la programmation en R et Python, les logiciels de nettoyage et d'analyse de données, ainsi que les dépôts de données. La plupart des ateliers sont accessibles aux participant·es de tous niveaux ; lorsque des prérequis sont nécessaires, ils sont indiqués dans la description de l'atelier.
-
-Tous les ateliers sont proposés en ligne et l'inscription est gratuite. Bien qu'ils s'adressent en priorité aux personnes issues des sciences humaines et sociales, ces ateliers sont ouverts à toute personne intéressée.
-
-Vous pouvez consulter la série complète et vous inscrire aux ateliers sur [Explora, la plateforme de formation de l’Alliance](https://explora.alliancecan.ca/collections/2026-27-humanities-and-social-sciences-hss-training-series).
-
-Tous les ateliers de cette série sont admissibles au [certificat canadien en humanités numériques](https://ccdhhn.ca/fr/le-certificat/).
+Ces webinaires accueilleront des intervenantes et intervenants issus du milieu universitaire et des domaines de soutien à la recherche, illustrant ainsi la diversité et le caractère innovant de la recherche numérique et computationnelle en sciences humaines et sociales. Cette série de webinaires vise à offrir à la communauté de recherche des occasions d’apprentissage et de réseautage, à faire connaître la variété et la richesse de la recherche numérique et computationnelle, ainsi qu’à favoriser le développement des compétences numériques chez les chercheuses, chercheurs et étudiantes et étudiants du domaine.
 
 ## Évènements à venir
 De nouveaux webinaires seront publiés ici au fur et à mesure de leur programmation ; n'hésitez pas à consulter régulièrement cette page.
@@ -31,9 +25,9 @@ Une littérature croissante a commencé à qualifier les grands modèles de lang
 
 Intervenant : [Dr. Sebastian Vallejo Vera](https://www.svallejovera.com/) est professeur adjoint au département de science politique de l'Université Western Ontario. Il est également membre du laboratoire interdisciplinaire de sciences sociales computationnelles (iLCSS) et chercheur associé au Hewlett Packard Enterprise Data Science Institute (Université de Houston). Ses recherches portent sur la manière dont les acteurs politiques négocient stratégiquement les obstacles liés au genre et à la racialisation pour participer aux institutions politiques, ainsi que sur les conséquences qui en découlent pour la représentation politique. En tant que chercheur en sciences sociales computationnelles, il développe et applique des méthodes d'analyse de textes en tant que données — notamment des modèles de langage fondés sur l'architecture Transformer — pour étudier ces questions à grande échelle. Plus récemment, ses travaux se sont élargis pour envisager les grands modèles de langage (LLM) comme des objets politiques : il examine comment les interactions entre humains et LLM façonnent la perception politique et comment celles-ci peuvent amplifier (ou non) la polarisation, la délibération démocratique et la représentation.
 
-## Événements passés
+## Évènements passés
 
-|Événement|
+||
 |----------|
 |[Generative AI, Co-creation, and Computer-Assisted Creativity: A Critical Survey](./pasquier.md)|
 |[Fragilité numérique, durabilité et longévité, ou qu'est-il advenu des éditions Internet Shakespeare ?](./jenstad.md)|

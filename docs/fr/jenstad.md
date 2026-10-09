@@ -5,7 +5,7 @@ hide:
   - path
 ---
 
-## Fragilité numérique, durabilité et longévité, ou qu'est-il advenu des éditions Internet Shakespeare ?
+# Fragilité numérique, durabilité et longévité, ou qu'est-il advenu des éditions Internet Shakespeare ?
 
 - Date: 12 novembre 2025
 - Langue: Anglais

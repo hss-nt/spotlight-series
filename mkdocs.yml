@@ -1,0 +1,62 @@
+site_name: Humanities & Social Sciences Spotlight Series
+site_url: https://hss-nt.github.io/spotlight_series/
+theme:
+  name: material
+  language: en
+  palette:
+    primary: blue
+  features:
+  - navigation.sections
+  - navigation.top
+  - content.code.copy
+
+markdown_extensions:
+  - def_list
+  - tables
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      
+nav:
+  - HSS Spotlight Webinars: index.md
+
+plugins:
+  - autorefs
+  - search
+  - privacy:
+      links_attr_map:
+        target: _blank
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true
+          nav_translations:
+            HSS Spotlight Webinars: Webinaires « HSS Spotlight »
+
+hide:
+  - nav
+
+extra_css:
+  - stylesheets/extra.css

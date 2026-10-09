@@ -37,6 +37,8 @@ nav:
   - HSS Spotlight Webinars: index.md
   - Past webinars:
     - Generative AI & co-creation: pasquier.md
+    - Digital fragility: jenstad.md
+    - Perspectives from Viewpoint Alberta: snagovsky.md
 
 plugins:
   - autorefs
@@ -57,6 +59,8 @@ plugins:
           nav_translations:
             HSS Spotlight Webinars: Webinaires « HSS Spotlight »
             Generative AI & co-creation: Generative AI & co-creation
+            Digital fragility: Fragilité numérique
+            Perspectives from Viewpoint Alberta: Perspectives de Viewpoint Alberta
 
 hide:
   - nav

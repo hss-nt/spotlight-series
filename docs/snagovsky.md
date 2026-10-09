@@ -4,7 +4,7 @@ hide:
   - path
 ---
 
-## Survey Data in Polarized Times: Insights from Viewpoint Alberta
+# Survey Data in Polarized Times: Insights from Viewpoint Alberta
 
 - Date: September 26th, 2025
 - Language: English

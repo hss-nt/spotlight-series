@@ -4,7 +4,7 @@ hide:
   - path
 ---
 
-## Generative AI, Co-creation, and Computer-Assisted Creativity: A Critical Survey.
+# Generative AI, Co-creation, and Computer-Assisted Creativity: A Critical Survey.
 
 - Date: January 29, 2026
 - Language: English

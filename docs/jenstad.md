@@ -4,7 +4,7 @@ hide:
   - path
 ---
 
-## Digital Fragility, Sustainability, and Longevity, or Whatever Happened to the Internet Shakespeare Editions?
+# Digital Fragility, Sustainability, and Longevity, or Whatever Happened to the Internet Shakespeare Editions?
 
 - Date: November 12, 2025
 - Language: English

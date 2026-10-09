@@ -3,6 +3,7 @@ hide:
   - toc
   - path
 ---
+
 # Données d'enquête en période de polarisation : perspectives de Viewpoint Alberta
 
 - Date: 26 septembre 2025

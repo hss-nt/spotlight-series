@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://hss-nt.github.io/spotlight-series/</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hss-nt.github.io/spotlight-series/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://hss-nt.github.io/spotlight-series/fr/"/>
+    </url>
+    <url>
+        <loc>https://hss-nt.github.io/spotlight-series/jenstad/</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hss-nt.github.io/spotlight-series/jenstad/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://hss-nt.github.io/spotlight-series/fr/jenstad/"/>
+    </url>
+    <url>
+        <loc>https://hss-nt.github.io/spotlight-series/pasquier/</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hss-nt.github.io/spotlight-series/pasquier/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://hss-nt.github.io/spotlight-series/fr/pasquier/"/>
+    </url>
+    <url>
+        <loc>https://hss-nt.github.io/spotlight-series/snagovsky/</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hss-nt.github.io/spotlight-series/snagovsky/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://hss-nt.github.io/spotlight-series/fr/snagovsky/"/>
+    </url>
+    <url>
+        <loc>https://hss-nt.github.io/spotlight-series/fr/</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://hss-nt.github.io/spotlight-series/fr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hss-nt.github.io/spotlight-series/"/>
+    </url>
+    <url>
+        <loc>https://hss-nt.github.io/spotlight-series/fr/jenstad/</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://hss-nt.github.io/spotlight-series/fr/jenstad/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hss-nt.github.io/spotlight-series/jenstad/"/>
+    </url>
+    <url>
+        <loc>https://hss-nt.github.io/spotlight-series/fr/pasquier/</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://hss-nt.github.io/spotlight-series/fr/pasquier/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hss-nt.github.io/spotlight-series/pasquier/"/>
+    </url>
+    <url>
+        <loc>https://hss-nt.github.io/spotlight-series/fr/snagovsky/</loc>
+        <lastmod>2026-10-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://hss-nt.github.io/spotlight-series/fr/snagovsky/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://hss-nt.github.io/spotlight-series/snagovsky/"/>
+    </url>
+</urlset>

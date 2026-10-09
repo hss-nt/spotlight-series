@@ -33,29 +33,8 @@ Intervenant : [Dr. Sebastian Vallejo Vera](https://www.svallejovera.com/) est pr
 
 ## Événements passés
 
-|Événement|Intervenant•e•s|Date|
-|----------|--------------|----|
-|[Generative AI, Co-creation, and Computer-Assisted Creativity: A Critical Survey](pasquier.md)|26 janvier 2026|Phillipe Pasquier|
-
-
-??? Fragilité numérique, durabilité et longévité, ou qu'est-il advenu des éditions Internet Shakespeare ?
-  - Date: 12 novembre 2025
-  - Langue: Anglais
-
-  En décembre 2018, le serveur des éditions Shakespeare sur Internet est tombé en panne. En avril 2020, les archives Shakespeare Quartos ont été retirées de leur hébergeur Bodleian. En octobre 2023, la cyberattaque contre la British Library a détruit le catalogue anglais des titres courts, toutes les images de leurs collections numériques (y compris celles des copies BL des pièces de Shakespeare) et des centaines de ressources scientifiques. Ces catastrophes numériques très médiatisées ne sont pas des cas isolés. Environ 80 % de tous les projets universitaires numériques créés au cours des trente dernières années ont disparu sans laisser de traces, ne laissant que peu de résultats tangibles pour justifier les fonds publics, l'expertise et le temps consacrés à leur réalisation. En prenant comme exemples les éditions Internet Shakespeare Editions et leur successeur Linked Early Modern Drama Online, cet article s'interroge sur les raisons de la fragilité des projets numériques, sur les moyens de mieux les pérenniser et sur les mesures à prendre pour garantir leur longévité.
-
-
-  Intervenante : **Dr. Janelle Jenstad** est professeure d'anglais et directrice académique du Centre d'informatique et des médias en sciences humaines de l'Université de Victoria (Canada). Elle est la directrice fondatrice de The Map of Early Modern London et de Linked Early Modern Drama Online, et co-rédactrice en chef de Digital Renaissance Editions, des New Internet Shakespeare Editions et de l'anthologie MoEML Mayoral Shows. Elle est membre fondatrice du projet The Endings Project (endings.uvic.ca) et continue de militer en faveur de la conformité aux fins dans la recherche numérique. Elle a coédité Shakespeare's Language in Digital Media (Routledge) et publié de nombreux ouvrages sur l'histoire du livre, les humanités numériques et le théâtre moderne.
-
-??? 
-
-  - Date:
-  - Langue: Anglais
-
-  Les sondages restent l'un des outils les plus utilisés pour étudier la façon dont les gens pensent et agissent. Cette session examine leurs forces et leurs limites dans la compréhension des attitudes et des comportements politiques, en particulier dans des contextes de forte polarisation politique. Nous examinerons les difficultés pratiques et méthodologiques des sondages en ligne, notamment le recrutement, le biais de réponse, la qualité des données et le suivi des attitudes au fil du temps. En nous appuyant sur les données de Viewpoint Alberta, un vaste projet de sondage pluriannuel qui examine les attitudes et les comportements politiques des Albertains, nous discuterons des leçons à tirer pour concevoir des sondages qui concilient rigueur et faisabilité dans la recherche politique contemporaine.
-
-  Ce webinaire servira également de séminaire de lancement du centre Transforming Research for Social Impact (TRSI) de l'Université de l'Alberta. Le centre TRSI est la première initiative panuniversitaire en Alberta axée sur le développement de méthodologies innovantes qui favorisent le changement social impulsé par la communauté et traitent de questions sociales complexes. Le centre répond à l'évolution rapide du monde de la recherche sociale en proposant une formation complète aux méthodes de recherche sociale et une promotion axée sur l'impact social.
-
-  Intervenants : **Dr Feo Snagovsky** est professeur adjoint au département de sciences politiques de l'Université de l'Alberta. Ses recherches portent sur l'analyse comparative des élections et des comportements politiques, en particulier sur le rôle que jouent les élites politiques dans la formation de l'identité et de l'opinion publique. Ses travaux ont été publiés dans Party Politics, Parliamentary Affairs, Government and Opposition, Electoral Studies, le Canadian Journal of Political Science et l'Australian Journal of Political Science. Ses recherches actuelles portent sur la croyance aux théories du complot et le soutien à la démocratie.
-
-  **Evan Walker** est doctorant au Département de science politique de l'Université de l'Alberta. Après avoir terminé sa maîtrise au sein de cette même université, il axe ses recherches sur le populisme, le comportement politique et, occasionnellement, l'économie politique. Il cherche à conjuguer ses connaissances en science politique, en économie et en géographie pour mieux comprendre l'opinion publique.
+|Événement|
+|----------|
+|[Generative AI, Co-creation, and Computer-Assisted Creativity: A Critical Survey](./pasquier.md)|
+|[Fragilité numérique, durabilité et longévité, ou qu'est-il advenu des éditions Internet Shakespeare ?](./jenstad.md)|
+|[Données d'enquête en période de polarisation : perspectives de Viewpoint Alberta](./snagovsky.md)|

@@ -28,3 +28,8 @@ A growing literature has begun to characterize Large Language Models (LLMs) as p
 
 ## Past webinars
 
+|Webinar|Speaker|Date|
+|----------|--------------|----|
+|[Generative AI, Co-creation, and Computer-Assisted Creativity: A Critical Survey](pasquier.md)|January 26, 2026|Phillipe Pasquier|
+
+

@@ -1,5 +1,14 @@
+---
+hide:
+  - toc
+  - path
+---
+
 ## Generative AI, Co-creation, and Computer-Assisted Creativity: A Critical Survey.
-  
+
+- Date: 19 janvier 2026
+- Langue: Anglais
+
 Les outils d’IA créative permettent de plus en plus l’automatisation partielle ou complète de tâches créatives. Qu’il s’agisse d’augmenter des logiciels créatifs existants ou d’intégrer une génération en temps réel, ces algorithmes exercent une influence croissante sur les pratiques créatives. L’IA créative ne prendra pas le contrôle du monde, mais elle a bel et bien un impact grandissant sur les créateurs et créatrices, les étudiantes et étudiants, le corps enseignant et l’industrie dans son ensemble.
 
 À présent que les algorithmes génératifs disposent de compétences comparables à celles des humains pour de nombreuses tâches créatives, et qu’ils sont déployés aussi bien dans des contextes professionnels qu’amateurs, il est essentiel d’évaluer et de discuter les implications de ces évolutions. Nous présentons les défis et les opportunités qui en découlent à travers une série d’exemples de systèmes génératifs développés au Metacreation Lab, ainsi que des expériences menées avec ces systèmes.

@@ -27,8 +27,7 @@ A growing literature has begun to characterize Large Language Models (LLMs) as p
 **Speaker:** [Dr. Sebastian Vallejo Vera](https://www.svallejovera.com/) is an Assistant Professor in the Department of Political Science at the University of Western Ontario. He is also a member of the interdisciplinary Laboratory of Computational Social Science (iLCSS) and a Research Fellow at the Hewlett Packard Enterprise Data Science Institute (University of Houston). Dr. Vallejo Vera’s research examines how political actors strategically navigate gendered and racialized barriers to participation in political institutions, and the downstream consequences for political representation. As a computational social scientist, he develops and applies text-as-data methods---particularly Transformer-based language models---to study these questions at scale. Most recently, his work has expanded to consider Large Language Models as political objects: how human-LLM interactions shape political perception, and how these can amplify (or not) polarization, democratic deliberation, and representation.
 
 ## Past webinars
-
-|Webinar|
+||
 |----------|
 |[Generative AI, Co-creation, and Computer-Assisted Creativity: A Critical Survey](./pasquier.md)|
 |[Digital Fragility, Sustainability, and Longevity, or Whatever Happened to the Internet Shakespeare Editions?](./jenstad.md)|

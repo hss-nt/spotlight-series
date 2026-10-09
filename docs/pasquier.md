@@ -5,7 +5,11 @@ hide:
 ---
 
 ## Generative AI, Co-creation, and Computer-Assisted Creativity: A Critical Survey.
- Creative AI tools increasingly allow for the partial or complete automation of creative tasks. Be it through the augmentation of existing creative software or through embedded real-time generation, these algorithms have a growing influence on creative practices. Creative AI will not take over the world, but it certainly increasingly impacts creators, students, educators, and the industry at large.
+
+- Date: January 29, 2026
+- Language: English
+
+Creative AI tools increasingly allow for the partial or complete automation of creative tasks. Be it through the augmentation of existing creative software or through embedded real-time generation, these algorithms have a growing influence on creative practices. Creative AI will not take over the world, but it certainly increasingly impacts creators, students, educators, and the industry at large.
 
 Now that generative algorithms have human-competitive skills for many creative tasks and are being deployed for professional and amateur alike, it is critical to evaluate and discuss the implications of such developments. We introduce challenges and opportunities arising through a series of examples of generative systems developed at the Metacreation Lab and experiments conducted with these systems. We will introduce a range of tools readily available for computer-assisted sound design, music composition, and visual generation, demonstrate them, and discuss their common implications on creative processes and workflow. We will present results of evaluations conducted with the music software industry focusing on user experience, ethics, sense of authorship, and technological acceptance.
 
